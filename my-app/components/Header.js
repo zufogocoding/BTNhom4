@@ -7,7 +7,7 @@ export default function Header({ noteCount }) {
   return (
     <header className="flex justify-between items-center py-4 border-b dark:border-gray-700">
       <div className="flex items-center gap-2">
-        <span className="text-xl font-bold">📄 Giấy ghi chú ước nguyện 来听下王欣宇甜甜的</span>
+        <span className="text-xl font-bold">📄 Giấy ghi chú ước nguyện 心願便利貼</span>
       </div>
       <div className="flex items-center gap-4">
 
